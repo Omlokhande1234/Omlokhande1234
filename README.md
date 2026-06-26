@@ -74,6 +74,6 @@ An AI-powered platform that generates, previews, and executes applications from 
 - 🔹 Created isolated **Kubernetes execution environments** with MinIO object storage and Zipkin distributed tracing.
 - 🔹 Integrated **Stripe subscriptions**, FREE/PRO quota management, and Redis-based rate limiting.
 
-🔗 **Repository:** [CodeForge](YOUR_GITHUB_LINK) • 🌐 **Live Demo:** YOUR_LIVE_LINK
+🔗 **Repository:** [CodeForge](YOUR_GITHUB_LINK) 
 
 ---
