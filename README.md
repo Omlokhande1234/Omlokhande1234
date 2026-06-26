@@ -10,9 +10,11 @@ I build scalable backend systems, microservices, cloud infrastructure, and AI-po
 
 <div align="center">
 
-💼 Open to Software Engineer • Backend Engineer • SDE Roles
+💼 **Open to Software Engineer • Backend Engineer • SDE Roles**
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -22,6 +24,8 @@ I build scalable backend systems, microservices, cloud infrastructure, and AI-po
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE)
 
 </div>
+
+<hr>
 
 ## 🚀 About Me
 
