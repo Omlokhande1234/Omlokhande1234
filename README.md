@@ -38,3 +38,44 @@ I build scalable backend systems, microservices, cloud infrastructure, and AI-po
 - 🧠 Solved 300+ DSA problems on LeetCode using Java
 - 🏗️ Built production-style backend, microservices, and cloud infrastructure projects
 - 🌱 Currently learning System Design, Distributed Systems & Cloud Architecture
+
+## 🚀 Featured Projects
+
+### 🚀 ProConnect — Professional Networking Platform
+**Java • Spring Boot • Microservices • GraphQL • PostgreSQL • Apache Kafka • Docker • Kubernetes • Jenkins • GitHub Actions**
+
+A production-grade microservices-based professional networking platform.
+
+- 🔹 Built a **5-service microservices architecture** with GraphQL API Gateway and Eureka Service Discovery.
+- 🔹 Processed **10,000+ async events/day** using Apache Kafka and Event-Driven Architecture.
+- 🔹 Deployed on **Kubernetes (8+ pods)** with ELK Stack, Zipkin distributed tracing, and automated CI/CD using Jenkins & GitHub Actions.
+
+🔗 **Repository:** [ProConnect](YOUR_GITHUB_LINK)
+
+---
+
+### 🏨 StayNest — Stay Booking Platform
+**Java • Spring Boot • Spring Security • PostgreSQL • Hibernate • JWT • Docker • GitHub Actions**
+
+A production-ready backend for hotel booking and reservation management.
+
+- 🔹 Designed and documented **15+ RESTful APIs** for hotels, rooms, search, bookings, and inventory management.
+- 🔹 Developed a **Dynamic Pricing Engine** using Strategy & Decorator design patterns and integrated payment workflows.
+- 🔹 Implemented **JWT Authentication & Role-Based Access Control**, Dockerized the application, and automated deployments via GitHub Actions.
+
+🔗 **Repository:** [StayNest](YOUR_GITHUB_LINK)
+
+---
+
+### 🤖 CodeForge — AI-Powered Code Generation Platform
+**Java • Spring Boot • Microservices • Spring Cloud Gateway • PostgreSQL • Redis • Docker • Kubernetes • Stripe**
+
+An AI-powered platform that generates, previews, and executes applications from natural language prompts.
+
+- 🔹 Built a **multi-service backend** with Spring Cloud API Gateway, LLM integration, RAG pipeline, and Qdrant Vector Database.
+- 🔹 Created isolated **Kubernetes execution environments** with MinIO object storage and Zipkin distributed tracing.
+- 🔹 Integrated **Stripe subscriptions**, FREE/PRO quota management, and Redis-based rate limiting.
+
+🔗 **Repository:** [CodeForge](YOUR_GITHUB_LINK) • 🌐 **Live Demo:** YOUR_LIVE_LINK
+
+---
