@@ -41,7 +41,7 @@ I build scalable backend systems, microservices, cloud infrastructure, and AI-po
 <hr>
 ## 🚀 Featured Projects
 
-## 🚀 ProConnect — Professional Networking Platform
+ 🚀 ProConnect — Professional Networking Platform
 **Java • Spring Boot • Microservices • GraphQL • PostgreSQL • Apache Kafka • Docker • Kubernetes • Jenkins • GitHub Actions**
 
 Production-grade microservices networking platform featuring GraphQL API Gateway, Kafka-driven event processing, Kubernetes deployment, and automated CI/CD pipelines.
@@ -50,7 +50,7 @@ Production-grade microservices networking platform featuring GraphQL API Gateway
 
 ---
 
-## 🏨 StayNest — Stay Booking Platform
+ 🏨 StayNest — Stay Booking Platform
 **Java • Spring Boot • Spring Security • PostgreSQL • Hibernate • JWT • Docker • GitHub Actions**
 
 Production-ready hotel booking backend with secure JWT authentication, dynamic pricing engine, REST APIs, and automated Docker-based deployments.
@@ -59,7 +59,7 @@ Production-ready hotel booking backend with secure JWT authentication, dynamic p
 
 ---
 
-## 🤖 CodeForge — AI-Powered Code Generation Platform
+ 🤖 CodeForge — AI-Powered Code Generation Platform
 **Java • Spring Boot • Microservices • Spring Cloud Gateway • PostgreSQL • Redis • Docker • Kubernetes • Stripe**
 
 AI-powered application builder with LLM integration, RAG pipeline, Kubernetes sandbox execution, Redis rate limiting, and Stripe subscriptions.
