@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Lokhande</h1>
 
-<!--
-**Omlokhande1234/Omlokhande1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Engineer (Java • Spring Boot) | Cloud & DevOps | Final-Year B.Tech
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build scalable backend systems, microservices, cloud infrastructure, and AI-powered applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+💼 Open to Software Engineer • Backend Engineer • SDE Roles
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a> •
+<a href="YOUR_LEETCODE">LeetCode</a>
+
+</p>
