@@ -22,3 +22,15 @@ I build scalable backend systems, microservices, cloud infrastructure, and AI-po
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE)
 
 </div>
+
+## 🚀 About Me
+
+- 🎓 Final-Year B.Tech in Electronics & Computer Engineering (Graduating 2026)
+- ☁️ Cloud Intern passionate about building scalable cloud-native applications
+- 💻 Backend Developer specializing in Java, Spring Boot, Microservices & REST APIs
+- 🚀 Hands-on with AWS (EC2, S3, IAM, VPC, CloudWatch), Docker, Kubernetes, Terraform & Ansible
+- ⚙️ Experienced in CI/CD using Jenkins, GitHub Actions, GitLab CI/CD & Infrastructure as Code
+- 📨 Worked with Kafka, Redis, PostgreSQL, MySQL & MongoDB for distributed applications
+- 🧠 Solved 300+ DSA problems on LeetCode using Java
+- 🏗️ Built production-style backend, microservices, and cloud infrastructure projects
+- 🌱 Currently learning System Design, Distributed Systems & Cloud Architecture
