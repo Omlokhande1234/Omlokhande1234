@@ -38,7 +38,7 @@ I build scalable backend systems, microservices, cloud infrastructure, and AI-po
 - 🧠 Solved 300+ DSA problems on LeetCode using Java
 - 🏗️ Built production-style backend, microservices, and cloud infrastructure projects
 - 🌱 Currently learning System Design, Distributed Systems & Cloud Architecture
-
+<hr>
 ## 🚀 Featured Projects
 
 ### 🚀 ProConnect — Professional Networking Platform
@@ -52,7 +52,7 @@ A production-grade microservices-based professional networking platform.
 
 🔗 **Repository:** [ProConnect](YOUR_GITHUB_LINK)
 
----
+
 
 ### 🏨 StayNest — Stay Booking Platform
 **Java • Spring Boot • Spring Security • PostgreSQL • Hibernate • JWT • Docker • GitHub Actions**
@@ -64,8 +64,6 @@ A production-ready backend for hotel booking and reservation management.
 - 🔹 Implemented **JWT Authentication & Role-Based Access Control**, Dockerized the application, and automated deployments via GitHub Actions.
 
 🔗 **Repository:** [StayNest](YOUR_GITHUB_LINK)
-
----
 
 ### 🤖 CodeForge — AI-Powered Code Generation Platform
 **Java • Spring Boot • Microservices • Spring Cloud Gateway • PostgreSQL • Redis • Docker • Kubernetes • Stripe**
