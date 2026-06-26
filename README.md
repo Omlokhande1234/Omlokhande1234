@@ -73,7 +73,7 @@ Production-ready hotel booking backend with JWT authentication, dynamic pricing 
 
 AI-powered application builder with LLM integration, RAG pipeline, Kubernetes sandbox execution, Redis rate limiting, and Stripe integration.
 
-🔗 **Repository:** [GitHub](YOUR_CODEFORGE_REPO) • 🌐 **Live Demo:** YOUR_CODEFORGE_DEMO
+🔗 **Repository:** [GitHub](YOUR_CODEFORGE_REPO) 
 
 ---
 
